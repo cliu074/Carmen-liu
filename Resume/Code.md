@@ -65,12 +65,7 @@
         <p class="lead mb-4">I am a fourth year undergraduate student and I take interest in helping others. Many of my job experiences involve customer service and active relationship building. 
         I intend to take these experiences as stepping stones to further my chances of one day becoming a clinical psychologist. Currently, I am a research assistant in a psychology lab at the
         University of California, Riverside. The overall skills I have learned such as team work, communcation, and effective efficiency has strengthened my work ethic.  <br><br>
-
-   Enter bio here<br><br>
-
-        Enter bio here
-        </p>
-        <div class="social-icons">
+ <div class="social-icons">
           <a target="_blank" href="https://www.linkedin.com/in/carmen-liu-3a0990140/">
             <i class="fab fa-linkedin-in"></i>
           </a>
@@ -84,13 +79,13 @@
       </div>
     </section>
 
-    <hr class="m-0">
+   <hr class="m-0">
 
-    <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
+  <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
       <div class="w-100">
         <h2 class="mb-5">Experience</h2>
 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+   <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
             <h3 class="mb-0">Food Server</h3>
             <div class="subheading mb-3"><a target="_blank" href="https://mulesoft.com">Poke Bar</a></div>
@@ -104,7 +99,7 @@
           </div>
         </div>
 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+   <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
             <h3 class="mb-0">Sales Associate</h3>
             <div class="subheading mb-3"><a target="_blank" href="https://pubnub.com">Pacific Sunwear</a></div>
@@ -120,7 +115,7 @@
         </div>
 
 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+  <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
             <h3 class="mb-0">Floral Assistant</h3>
             <div class="subheading mb-3"><a target="_blank" href="https://ucr.edu">Joann Cai Wedding Arrangements</a></div>
@@ -128,8 +123,8 @@
             • Met with clients to discuss specific details about the floral arrangements to develop the best design tailored to their individual needs.
             • Ensured superior customer experience by addressing customer concerns, demonstrating empathy and resolving problems swiftly.<br>
 
-          </p>
-          </div>
+   </p>
+    </div>
           <div class="resume-date text-md-right">
             <span class="text-primary">November 2014 - April 2015</span>
           </div>
@@ -137,11 +132,11 @@
 
 
 
-      </div>
+  </div>
 
-    </section>
+  </section>
 
-    <hr class="m-0">
+   <hr class="m-0">
 
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
       <div class="w-100">
@@ -208,5 +203,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1NDkyMjAwLC0xMzE1NzI0MzcyXX0=
+eyJoaXN0b3J5IjpbLTE4NjM5MTA0MzksLTEzMTU3MjQzNzJdfQ
+==
 -->
