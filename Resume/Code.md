@@ -138,11 +138,11 @@
 
    <hr class="m-0">
 
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
+   <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
       <div class="w-100">
         <h2 class="mb-5">Education</h2>
 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+   <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
             <h3 class="mb-0">UC Riverside</h3>
             <div class="subheading mb-3">Bachelors of Art in Psychology</div>
@@ -155,14 +155,14 @@
        
 
        
-        </div>
+   </div>
 
-      </div>
+   </div>
     </section>
 
-    <hr class="m-0">
+   <hr class="m-0">
 
-    <section class="resume-section p-1 p-lg-5 d-flex align-items-center" id="portfolio">
+   <section class="resume-section p-1 p-lg-5 d-flex align-items-center" id="portfolio">
       <div class="w-100">
         <h2 class="mb-5">Portfolio</h1>
         <center>
@@ -176,7 +176,7 @@
       </div>
     </section>
 
-    <hr class="m-0">
+   <hr class="m-0">
     <center>&copy; <script type="text/javascript">
   document.write(new Date().getFullYear());
   </script> Carmen Liu</center><br>
@@ -203,6 +203,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjM5MTA0MzksLTEzMTU3MjQzNzJdfQ
-==
+eyJoaXN0b3J5IjpbLTI0MTA5Mzk1LC0xMzE1NzI0MzcyXX0=
 -->
