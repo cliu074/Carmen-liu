@@ -57,7 +57,7 @@
 
   <div class="container-fluid p-0">
 
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
+   <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
       <div class="w-100">
         <h1 class="mb-3">Carmen Liu
         </h1>
@@ -66,7 +66,7 @@
         I intend to take these experiences as stepping stones to further my chances of one day becoming a clinical psychologist. Currently, I am a research assistant in a psychology lab at the
         University of California, Riverside. The overall skills I have learned such as team work, communcation, and effective efficiency has strengthened my work ethic.  <br><br>
 
-        Enter bio here<br><br>
+   Enter bio here<br><br>
 
         Enter bio here
         </p>
@@ -208,5 +208,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTU3MjQzNzJdfQ==
+eyJoaXN0b3J5IjpbNTY1NDkyMjAwLC0xMzE1NzI0MzcyXX0=
 -->
